@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on programming stuff
-- 📫 How to reach me: Snap, wilma_wilmoe.
+- 📫 How to reach me: Snap, wilma_wilmoe, Discord: #Valex6373
 
 <!---
 Wilmoe/Wilmoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
