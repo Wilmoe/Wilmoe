@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wilmoe
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning code
+- 🌱 I’m currently learning coding, so please help me <3
 - 💞️ I’m looking to collaborate on programming stuff
 - 📫 How to reach me: Snap, wilma_wilmoe, Discord: #Valex6373
 
